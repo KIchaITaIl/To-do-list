@@ -6,7 +6,7 @@ To-do-list with some problem)
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Список дел</title>
+	
 </head>
 <body>
 	<div>
